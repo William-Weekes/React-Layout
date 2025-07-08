@@ -1,13 +1,13 @@
-import React from 'react'
-import Nav from '../components/Nav'
+import React from "react";
+import Nav from "../components/Nav";
 
 const Services = () => {
   return (
     <>
-       <Nav />
-    <div> This is the Services page</div>     
-     </> 
-  )
-}
+      {/* <Nav /> */}
+      <div> This is the Services page</div>
+    </>
+  );
+};
 
-export default Services
+export default Services;
